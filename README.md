@@ -4,7 +4,7 @@
 
 Site criado para praticar posicionamentos utilizando o Flexbox.
 
-<img align="center" src="https://github.com/vpena-dev/flexblog/assets/107283882/6951d627-6c94-4033-8b86-bd8b61e79eec" alt="jogo-da-forca printscreen" />
+<img align="center" src="https://github.com/vpena-dev/flexblog/assets/107283882/6951d627-6c94-4033-8b86-bd8b61e79eec" alt="flexblog printscreen" />
 
 
 <hr>
